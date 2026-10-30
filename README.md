@@ -18,7 +18,7 @@ Construindo pontes entre APIs, dados e ideias — uma linha de código por vez.
 
 ## 🌃 Sobre mim
 
-Sou **Amanda Domenica**, desenvolvedora com foco em **backend e inteligência artificial**. Gosto de transformar problemas confusos em sistemas que fazem sentido — e, quando possível, em automações que trabalham enquanto tomo café. ☕
+Sou **Amanda Domenica**, desenvolvedora com foco em **backend e inteligência artificial**. Gosto de transformar problemas confusos em sistemas que fazem sentido — e, quando possível, em automações que trabalham enquanto tomo chá. 🍵
 
 Tenho explorado aplicações com **LLMs, RAG, n8n e MCP**, além de APIs, bancos de dados e ferramentas de desenvolvimento. Curto aprender na prática, conectar tecnologias diferentes e descobrir até onde uma boa ideia pode chegar.
 
