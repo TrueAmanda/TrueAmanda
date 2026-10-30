@@ -26,7 +26,7 @@ Tenho explorado aplicações com **LLMs, RAG, n8n e MCP**, além de APIs, bancos
 - 🟢 Online
 - 🧠 Foco atual: backend + IA
 - 🎯 Missão: fazer a tecnologia trabalhar a favor das pessoas
-- ☕ Café: dependência não declarada, mas essencial
+- 🍵 Chá: combustível oficial para manter as ideias em movimento.
 
 ## 🧠 Meu arsenal tecnológico
 
@@ -36,6 +36,7 @@ Tenho explorado aplicações com **LLMs, RAG, n8n e MCP**, além de APIs, bancos
 ![FastAPI](https://img.shields.io/badge/FastAPI-17121F?style=flat-square&logo=fastapi&logoColor=00F5D4)
 ![Node.js](https://img.shields.io/badge/Node.js-17121F?style=flat-square&logo=nodedotjs&logoColor=9DFF00)
 ![SQL](https://img.shields.io/badge/SQL-17121F?style=flat-square&logo=postgresql&logoColor=EA00FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17121F?style=flat-square&logo=postgresql&logoColor=00B8FF)
 
 ### Inteligência artificial & automação
 
@@ -43,6 +44,7 @@ Tenho explorado aplicações com **LLMs, RAG, n8n e MCP**, além de APIs, bancos
 ![RAG](https://img.shields.io/badge/RAG-17121F?style=flat-square&logoColor=00F5D4)
 ![n8n](https://img.shields.io/badge/n8n-17121F?style=flat-square&logo=n8n&logoColor=EA00FF)
 ![MCP](https://img.shields.io/badge/MCP-17121F?style=flat-square&logoColor=C084FC)
+![Vector Store](https://img.shields.io/badge/Vector_Store-17121F?style=flat-square&logoColor=EA00FF)
 
 ### Ferramentas & infraestrutura
 
