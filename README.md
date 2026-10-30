@@ -59,22 +59,6 @@ Tenho explorado aplicações com **LLMs, RAG, n8n e MCP**, além de APIs, bancos
 - 🧩 Explorar MCP e novas formas de conectar ferramentas e modelos.
 - 📚 Aprender construindo: documentação aberta, projetos práticos e café por perto.
 
-## 📡 Sinais do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TrueAmanda&show_icons=true&hide_border=true&bg_color=0D0714&title_color=EA00FF&icon_color=00F5D4&text_color=EADCF8&ring_color=9D00FF" alt="Estatísticas do GitHub de Amanda">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueAmanda&layout=compact&hide_border=true&bg_color=0D0714&title_color=EA00FF&text_color=EADCF8" alt="Linguagens mais usadas nos repositórios de Amanda">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TrueAmanda&bg_color=0D0714&color=EADCF8&line=9D00FF&point=00F5D4&area=true&hide_border=true" width="95%" alt="Gráfico de atividade no GitHub">
-
-</div>
-
 ## 📬 Vamos nos conectar?
 
 Tem uma ideia, projeto ou conversa sobre backend e IA? Me chama.  
@@ -85,6 +69,12 @@ Prometo responder antes de uma automação tentar automatizar a própria automa�
 [LinkedIn](https://www.linkedin.com/in/amanda-domenica-ferreira-976938180/) ·
 [Email](mailto:domenicamanda23@gmail.com) ·
 [Portfólio](https://amanda-domenica-backend-ai.lovable.app)
+
+<div align="center">
+
+✨ Mais projetos, menos bugs. Ou pelo menos bugs mais interessantes. ✨
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,55:3B0764,100:090014&height=100&section=footer" width="100%" alt="Rodapé decorativo em tons neon roxos">
 
